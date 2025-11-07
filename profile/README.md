@@ -1,8 +1,8 @@
 <div align="center" id="inicio">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bora-rachao/bora-rachao/blob/main/resources/assets/images/logos/logo-bora-rachao-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bora-rachao/bora-rachao/blob/main/resources/assets/images/logos/logo-bora-rachao-black.png">
-    <img alt="Logo BoraRachão White" src="https://github.com/bora-rachao/bora-rachao/blob/main/resources/assets/images/logos/logo-bora-rachao-white.png" width="550">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bora-rachao/bora-rachao/blob/main/public/assets/images/logos/logo-bora-rachao-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bora-rachao/bora-rachao/blob/main/public/assets/images/logos/logo-bora-rachao-black.png">
+    <img alt="Logo BoraRachão White" src="https://github.com/bora-rachao/bora-rachao/blob/main/public/assets/images/logos/logo-bora-rachao-white.png" width="550">
   </picture>
   
   # Plataforma para organização de partidas esportivas
