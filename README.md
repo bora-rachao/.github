@@ -5,11 +5,11 @@
     <img alt="Logo BoraRachão White" src=".github/logo-bora-rachao-white.png" width="550">
   </picture>
   
-  # Plataforma para organização de partidas esportivas
+  # ⚽ Plataforma para organização de partidas esportivas
   ### Centro Paula Souza
   ### Faculdade de Tecnologia de Jahu 
   ### Curso de Tecnologia em Desenvolvimento de Software Multiplataforma
   ### Jaú, SP, BR
   ### Início: 1º Semestre / 2025
-  # Organização do GitHub
+  # 📄 Organização do GitHub
 </div>
